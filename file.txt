@@ -1,6 +1,5 @@
 ini tulisan dari coba repo
-<<<<<<< HEAD
 ini tulisan baru dari atheo
-=======
 ini tulisan kedua dari aiko
->>>>>>> aiko/main
+konflik 2
+
